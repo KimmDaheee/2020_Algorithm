@@ -3,5 +3,4 @@
 
 💁‍♀️ 백준 아이디 : [ekekekgml](https://www.acmicpc.net/user/ekekekgml)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ekekekgml)](https://solved.ac/ekekekgml)
+[![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ekekekgml)](https://solved.ac/ekekekgml)
